@@ -1,0 +1,18 @@
+Action name = devices
+List of devices attached
+1WMHH820GH0361	device
+
+
+--------------------------------------------------------------------
+Action name =  -s 1WMHH820GH0361 shell df
+List of devices attached
+1WMHH820GH0361	device
+
+
+--------------------------------------------------------------------
+Action name =  -s 1WMHH820GH0361 shell df
+List of devices attached
+1WMHH820GH0361	device
+
+
+--------------------------------------------------------------------
